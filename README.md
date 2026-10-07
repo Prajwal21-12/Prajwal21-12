@@ -14,9 +14,16 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariharprajwal@gmail.com)
 
 </div>
+## 👨‍💻 About Me
 
-I’m a 3rd-year Computer Science Engineering student specializing in
-**Artificial Intelligence & Machine Learning**.
+I'm **Prajwal Harihar**, a 3rd-year Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+
+- 🤖 Interested in **AI/ML and Generative AI**
+- 🌐 Building **Full-Stack applications**
+- 🐍 Currently strengthening my **Python & DSA** skills
+- 🚀 Building practical projects that solve real-world problems
+- 🎯 Goal: Become a strong **AI Engineer & Full-Stack Developer**
+- 💼 Open to **internships and software engineering opportunities**
 
 I enjoy building practical applications that combine **AI, modern web technologies, and full-stack development**.
 
