@@ -67,6 +67,18 @@ An AI-powered study assistant built with **Python, Streamlit, and Gemini AI** to
 
 🌐 [Live Demo](https://snap-study-viukrewf78gbjgtaisflwt.streamlit.app)
 
+---
+
+## 📚 Currently Learning
+
+- 🧠 Data Structures & Algorithms
+- 🐍 Advanced Python
+- 🤖 AI / Machine Learning
+- ✨ Generative AI
+- 🌐 Full-Stack Development
+- 🗄️ Databases & REST APIs
+- 🔧 Git & Open Source
+
 ## 🌐 Connect With Me
 
 🌍 **Portfolio:**  
