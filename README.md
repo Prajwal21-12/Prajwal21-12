@@ -95,6 +95,18 @@ A full-stack task management application built with frontend and backend functio
 
 **Category:** Full-Stack Development
 
+---
+
+### 🌱 Smart Crop Advisory System
+
+An AI/ML project focused on providing technology-driven advisory support for agricultural use cases.
+
+- 🌾 Agriculture-focused AI/ML application
+- 🤖 AI/ML-related components
+- 🌐 Application development
+
+🌐 [Live Demo](https://smart-crop-advisory-system-snowy-two.vercel.app/)
+
 ## 📚 Currently Learning
 
 - 🧠 Data Structures & Algorithms
