@@ -92,6 +92,28 @@ An AI-powered study assistant built with **Python, Streamlit, and Gemini AI** to
   <img src="https://streak-stats.demolab.com?user=Prajwal21-12&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, recruiters, and people working on interesting AI and software projects.
+
+📧 **Email:** [hariharprajwal@gmail.com](mailto:hariharprajwal@gmail.com)
+
+💼 **LinkedIn:** [Prajwal Harihar](https://www.linkedin.com/in/prajwal-harihar-9261a1341/)
+
+🌐 **Portfolio:** [prajwal21-12.github.io/Prajwal-portfolio](https://prajwal21-12.github.io/Prajwal-portfolio/)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something useful. 🚀**
+
+</div>
+
 ## 🌐 Connect With Me
 
 🌍 **Portfolio:**  
