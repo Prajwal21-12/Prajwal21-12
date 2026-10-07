@@ -69,6 +69,32 @@ An AI-powered study assistant built with **Python, Streamlit, and Gemini AI** to
 
 ---
 
+---
+
+## 🚀 More Projects
+
+### 🏆 MatchMind AI
+
+An AI-powered sports event scheduling and management platform.
+
+- 🎯 AI-powered sports event management
+- 🌐 Frontend and backend application components
+- 🤖 AI functionality integrated into the application workflow
+
+**Category:** AI • Full-Stack Development
+
+---
+
+### ✅ FullstackToDoApp
+
+A full-stack task management application built with frontend and backend functionality.
+
+- 📝 Task management
+- 🌐 Frontend and backend functionality
+- 🔧 Full-stack application development
+
+**Category:** Full-Stack Development
+
 ## 📚 Currently Learning
 
 - 🧠 Data Structures & Algorithms
