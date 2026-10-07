@@ -78,10 +78,10 @@ An AI-powered study assistant built with **Python, Streamlit, and Gemini AI** to
 An AI-powered sports event scheduling and management platform.
 
 - 🎯 AI-powered sports event management
-- 🌐 Frontend and backend application components
-- 🤖 AI functionality integrated into the application workflow
+- 🌐 Frontend and backend components
+- 🤖 AI functionality integrated into the application
 
-**Category:** AI • Full-Stack Development
+🌐 [Live Demo](https://match-mind-ai-three.vercel.app/)
 
 ---
 
@@ -140,6 +140,8 @@ I'm open to connecting with developers, recruiters, and people working on intere
 
 </div>
 
+---
+
 ## 🌐 Connect With Me
 
 🌍 **Portfolio:**  
@@ -197,6 +199,20 @@ https://github.com/Prajwal21-12/snap-study
 
 🌐 **Live Demo:**  
 https://snap-study-viukrewf78gbjgtaisflwt.streamlit.app
+
+---
+
+---
+
+### 🌱 Smart Crop Advisory System
+
+An AI/ML project focused on providing technology-driven advisory support for agricultural use cases.
+
+- 🌾 Agriculture-focused AI/ML application
+- 🤖 AI/ML-related components
+- 🌐 Application development
+
+🌐 [Live Demo](https://smart-crop-advisory-system-snowy-two.vercel.app/)
 
 ---
 
