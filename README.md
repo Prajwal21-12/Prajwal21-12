@@ -122,6 +122,23 @@ I'm interested in:
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal21-12&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal21-12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prajwal21-12&theme=tokyonight&hide_border=true" />
+</p>
+
 ### ⭐ Thanks for visiting my profile!
 
 **Let's build something useful. 🚀**
