@@ -52,6 +52,21 @@ I enjoy building practical applications that combine **AI, modern web technologi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+## 🚀 Featured Project
+
+### 📚 Snap & Study
+
+An AI-powered study assistant built with **Python, Streamlit, and Gemini AI** to support students with learning and study-related tasks.
+
+**Tech Stack:**  
+`Python` `Streamlit` `Gemini AI`
+
+🔗 [View Source Code](https://github.com/Prajwal21-12/snap-study)
+
+🌐 [Live Demo](https://snap-study-viukrewf78gbjgtaisflwt.streamlit.app)
+
 ## 🌐 Connect With Me
 
 🌍 **Portfolio:**  
