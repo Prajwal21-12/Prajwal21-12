@@ -228,21 +228,6 @@ An AI/ML project focused on providing technology-driven advisory support for agr
 
 ---
 
-## 🏗️ Currently Building
-
-### 🚍 Smart Public Transport Management System
-
-Working on a smart public transport platform focused on:
-
-- 🚌 Bus tracking
-- 🗺️ Route information
-- 🎫 Ticket management
-- 👨‍💼 Admin dashboard
-- 🚍 Driver application
-- 👤 Passenger application
-
----
-
 ## 🎓 Education
 
 **Bachelor of Engineering — Computer Science & Engineering  
